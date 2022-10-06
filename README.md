@@ -1,3 +1,2 @@
 # Tugas-Pemrograman-Web
-# Muhamad Bintang Fitriatuderajat
-# 120140040
+  Muhamad Bintang Fitriatuderajat - 120140040 - RC
